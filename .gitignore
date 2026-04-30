@@ -3,5 +3,13 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Editores e IDEs
+.claude/
 .idea/
 .vscode/
+.cursor/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
